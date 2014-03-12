@@ -1,0 +1,7 @@
+t_sender = 5
+t_recv = 4
+poll_limit = 7
+num_of_procs =4
+num_of_ranges = 3, 6, 9
+machines_file =  machines
+ranges_file = ranges
